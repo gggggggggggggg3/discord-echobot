@@ -1,0 +1,20 @@
+{
+  "token": "MTk4MTgzNTgxMzcyMjUyMTYw.RDp8JfdALiaB0yuN0Ga2mKvbPjo",
+  "redirects": [
+    {
+      "sources": [
+        "926274573387841575",
+        "933232650020347934"
+      ],
+      "destinations": [
+        "934370080182112289"
+      ],
+      "options": {
+        "title": "New Message from yung money NFT",
+        "richEmbed": true,
+        "richEmbedColor": 30975,
+        "includeSource": true,
+      }
+    }
+  ]
+}
