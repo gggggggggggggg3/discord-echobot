@@ -10,10 +10,16 @@
         "934370080182112289"
       ],
       "options": {
-        "title": "New Message from yung money NFT",
+        "title": "New Copied Message",
         "richEmbed": true,
         "richEmbedColor": 30975,
         "includeSource": true,
+        "removeEveryone": true,
+        "removeHere": true,
+        "copyRichEmbed": true,
+        "copyAttachments": true,
+        "minLength": 0,
+        "allowList": []
       }
     }
   ]
